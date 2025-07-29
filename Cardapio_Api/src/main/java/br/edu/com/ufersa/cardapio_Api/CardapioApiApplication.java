@@ -1,4 +1,4 @@
-package br.edu.com.ufersa.Cardapio_Api.Cardapio_Api;
+package br.edu.com.ufersa.cardapio_Api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
